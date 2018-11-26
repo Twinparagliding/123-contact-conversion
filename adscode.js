@@ -9,7 +9,7 @@
 </script>
 
 
-<!--bitte ändern sie global sit tag in google tag manager snippet code -->
+<!--bitte ändern sie global site tag in google tag manager snippet code -->
 
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
